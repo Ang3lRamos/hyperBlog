@@ -1,18 +1,18 @@
 body{
     color: rgb(218, 78, 213);
-    text-align: left;
+    text-align: center;
     font-family: "Arial";
     font-size: 16px;
-    margin: 3;
-    padding: 5;
+    margin: 0;
+    padding: 0
 }
 #container{
-    width: 50%;
-    padding: 2em;
-    text-align: center;
-    border: 5px solid #DDD;
-    margin: 1 auto;
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
 }
 #container h1{
-    font-size: 30px;
+    font-size: 20px;
 }
